@@ -1,4 +1,4 @@
-microsoft-vscode
+﻿microsoft-vscode
 
 THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 Do Not Translate or Localize
@@ -2270,3 +2270,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 =========================================
 END OF vscode-swift NOTICES AND INFORMATION
+
+A line added to end of the file for Assignment 5 in Edureka course of Mastering Git and GitHub
